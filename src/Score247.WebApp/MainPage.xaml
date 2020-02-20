@@ -5,17 +5,9 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Score247.WebApp.MainPage">
-    <StackLayout VerticalOptions="FillAndExpand"
-                 HorizontalOptions="FillAndExpand"
-                 BackgroundColor="Black">
-
-
-        <WebView BackgroundColor="Blue"
+    <WebView BackgroundColor="Blue"
                  Source="https://score247-web.nexdev.net/"
                  HorizontalOptions="FillAndExpand"
                  VerticalOptions="FillAndExpand"
                  HeightRequest="2000"/>
-
-
-    </StackLayout>
 </ContentPage>

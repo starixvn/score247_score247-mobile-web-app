@@ -49,7 +49,7 @@
 <AndroidLinkTool>r8</AndroidLinkTool>
 <AndroidSupportedAbis>armeabi-v7a</AndroidSupportedAbis>
 <AndroidKeyStore>True</AndroidKeyStore>
-<AndroidSigningKeyStore>..\..\..\files\Android\ONElab\ONElab.keystore</AndroidSigningKeyStore>
+<AndroidSigningKeyStore>..\..\files\Android\ONElab\ONElab.keystore</AndroidSigningKeyStore>
 <AndroidSigningStorePass>1234aa</AndroidSigningStorePass>
 <AndroidSigningKeyAlias>ONElab</AndroidSigningKeyAlias>
 <AndroidSigningKeyPass>1234aa</AndroidSigningKeyPass>
