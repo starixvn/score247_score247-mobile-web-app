@@ -34,6 +34,7 @@
     <AndroidLinkMode>None</AndroidLinkMode>
     <AndroidDexTool>d8</AndroidDexTool>
     <AndroidLinkTool>r8</AndroidLinkTool>
+    <AndroidSigningKeyStore>/Users/harrison.nguyen/Projects/nexcel/working/score247/score247-mobile-web-app/files/Android/nexcel/nexcel.keystore</AndroidSigningKeyStore>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -47,6 +48,11 @@
 <AndroidDexTool>d8</AndroidDexTool>
 <AndroidLinkTool>r8</AndroidLinkTool>
 <AndroidSupportedAbis>armeabi-v7a</AndroidSupportedAbis>
+<AndroidKeyStore>True</AndroidKeyStore>
+<AndroidSigningKeyStore>..\..\..\files\Android\ONElab\ONElab.keystore</AndroidSigningKeyStore>
+<AndroidSigningStorePass>1234aa</AndroidSigningStorePass>
+<AndroidSigningKeyAlias>ONElab</AndroidSigningKeyAlias>
+<AndroidSigningKeyPass>1234aa</AndroidSigningKeyPass>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
