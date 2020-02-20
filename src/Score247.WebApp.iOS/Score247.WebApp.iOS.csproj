@@ -63,6 +63,7 @@
     <MtouchArch>ARM64</MtouchArch>
     <CodesignKey>iPhone Distribution: Doan Nhat Phuong (D6D3U376DF)</CodesignKey>
     <CodesignProvision>Score247</CodesignProvision>
+    <BuildIpa>true</BuildIpa>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
