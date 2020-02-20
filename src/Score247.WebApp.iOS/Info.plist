@@ -23,7 +23,7 @@
 	<key>MinimumOSVersion</key>
 	<string>8.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>Score247.WebApp</string>
+	<string>Score247</string>
 	<key>CFBundleIdentifier</key>
 	<string>Score247.App</string>
 	<key>CFBundleVersion</key>
