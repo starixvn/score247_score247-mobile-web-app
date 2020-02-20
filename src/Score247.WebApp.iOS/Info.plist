@@ -34,5 +34,7 @@
 	<string>Assets.xcassets/AppIcon-1.appiconset</string>
 	<key>CFBundleName</key>
 	<string>Score247</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
 </dict>
 </plist>
